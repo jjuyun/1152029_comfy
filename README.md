@@ -24,4 +24,4 @@ dark avant-garde fashion editorial, high-end alternative fashion magazine, same 
 different person, altered facial features, distorted face, asymmetrical eyes, deformed anatomy, malformed shoulders, extra limbs, extra fingers, fused fingers, unnatural body proportions, poorly rendered hands, blurry, low quality, excessive noise, color artifacts, glitch, fragmented image, oversaturated colors, cartoon, anime, illustration, watermark, text
 
 ## 心得與反思
-這次使用 ComfyUI 生成圖片，我覺得實際操作比想像中複雜很多，除了調整提示詞，還需要調整各種參數與節點，才能生成接近理想的圖片。過程中有遇到人物五官扭曲、畫面出現雜訊等問題，也讓我有些挫折，就算不斷修改指令，結果還是不一定符合預期。相較於其他只需輸入文字就能生成圖片的網站，ComfyUI 雖然有更多自由度，但也需要投入更多時間來研究。這次讓我知道，AI 並不是輸入指令就能得到完美結果，想要實現自己的創意，仍然需要耐心嘗試、找到問題和解決方法，也讓我理解使用 AI 工具背後所需要的技術與努力
+這次使用 ComfyUI 生成圖片，我覺得實際操作比想像中複雜很多，除了調整提示詞，還需要調整各種參數與節點，才能生成接近理想的圖片。過程中有遇到人物五官扭曲、畫面出現雜訊等問題，也讓我有些挫折，就算不斷修改指令，結果還是不一定符合預期，還有因為選擇比較小的模型，成效可能還是有點差異。相較於其他只需輸入文字就能生成圖片的網站，ComfyUI 雖然有更多自由度，但也需要投入更多時間來研究。這次讓我知道，AI 並不是輸入指令就能得到完美結果，想要實現想法，還是需要耐心不斷測試、找到問題和解決方法，也讓我理解使用 AI 工具背後所需要的技術
