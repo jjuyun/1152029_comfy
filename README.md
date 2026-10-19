@@ -1,27 +1,27 @@
 
-### ­ì¹Ï
+### åŸåœ–
 
-![Image 1](images/S__21323779.jpg)
+![](images/S__21323779.jpg)
 
-### ¥Í¦¨ªº¹Ï
+### ç”Ÿæˆçš„åœ–
 
-![Image 2](images/ComfyUI2233_00008_.png)
+![](images/ComfyUI2233_00008_.png)
 
-### ¤u§@¬yµ{
+### å·¥ä½œæµç¨‹
 
-![Image 3](images/2026-10-20 000251.png)
+![](images/000251.png)
 
 ---
 
-## ´£¥Üµü
+## æç¤ºè©
 
-### Positive Prompt¡]¥¿¦V´£¥Üµü¡^
+### Positive Promptï¼ˆæ­£å‘æç¤ºè©ï¼‰
 
 dark avant-garde fashion editorial, high-end alternative fashion magazine, same person as the reference photo, preserve facial identity, recognizable face, original facial features, waist-up portrait, sculptural black haute couture, exaggerated structured shoulders, asymmetrical tailoring, layered black fabrics, deconstructed fashion, dramatic silhouette, intricate fabric details, subtle silver accessories, monochromatic black and charcoal palette, cold cinematic atmosphere, dramatic directional studio lighting, deep shadows, editorial art direction, photorealistic fashion photography, realistic skin texture, sharp focus, professional studio photography
 
-### Negative Prompt¡]¤Ï¦V´£¥Üµü¡^
+### Negative Promptï¼ˆåå‘æç¤ºè©ï¼‰
 
 different person, altered facial features, distorted face, asymmetrical eyes, deformed anatomy, malformed shoulders, extra limbs, extra fingers, fused fingers, unnatural body proportions, poorly rendered hands, blurry, low quality, excessive noise, color artifacts, glitch, fragmented image, oversaturated colors, cartoon, anime, illustration, watermark, text
 
-## ¤ß±o»P¤Ï«ä
-³o¦¸¨Ï¥Î ComfyUI ¥Í¦¨¹Ï¤ù¡A§ÚÄ±±o¹ê»Ú¾Ş§@¤ñ·Q¹³¤¤½ÆÂø«Ü¦h¡A°£¤F½Õ¾ã´£¥Üµü¡AÁÙ»İ­n½Õ¾ã¦UºØ°Ñ¼Æ»P¸`ÂI¡A¤~¯à¥Í¦¨²z·Qªº¹Ï¤ù¡C¹Lµ{¤¤¹J¨ì¤Hª«¤­©x§á¦±¡Bµe­±¥X²{Âø°Tµ¥°İÃD®É¡A¤]Åı§Ú¦³¨Ç®À§é¡A¦]¬°§Y¨Ï¤£Â_­×§ï«ü¥O¡Aµ²ªG¤´¤£¤@©w²Å¦X¹w´Á¡C¬Û¸û©ó¨ä¥L¥u»İ¿é¤J¤å¦r´N¯à¥Í¦¨¹Ï¤ùªººô¯¸¡AComfyUI ÁöµM¦³§ó¦h¦Û¥Ñ«×¡A¦ı¤]»İ­n§ë¤J§ó¦h®É¶¡¨Ó¬ã¨s¡C³o¦¸Åı§Úª¾¹D¡AAI ¨Ã¤£¬O¿é¤J«ü¥O´N¯à±o¨ì§¹¬üµ²ªG¡A·Q­n¹ê²{¦Û¤vªº³Ğ·N¡A¤´µM»İ­n­@¤ß¹Á¸Õ¡B§ä¨ì°İÃD©M¸Ñ¨M¤èªk¡A¤]Åı§Ú²z¸Ñ¨Ï¥Î AI ¤u¨ã­I«á©Ò»İ­nªº§Ş³N»P§V¤O
+## å¿ƒå¾—èˆ‡åæ€
+é€™æ¬¡ä½¿ç”¨ ComfyUI ç”Ÿæˆåœ–ç‰‡ï¼Œæˆ‘è¦ºå¾—å¯¦éš›æ“ä½œæ¯”æƒ³åƒä¸­è¤‡é›œå¾ˆå¤šï¼Œé™¤äº†èª¿æ•´æç¤ºè©ï¼Œé‚„éœ€è¦èª¿æ•´å„ç¨®åƒæ•¸èˆ‡ç¯€é»ï¼Œæ‰èƒ½ç”Ÿæˆç†æƒ³çš„åœ–ç‰‡ã€‚éç¨‹ä¸­é‡åˆ°äººç‰©äº”å®˜æ‰­æ›²ã€ç•«é¢å‡ºç¾é›œè¨Šç­‰å•é¡Œæ™‚ï¼Œä¹Ÿè®“æˆ‘æœ‰äº›æŒ«æŠ˜ï¼Œå› ç‚ºå³ä½¿ä¸æ–·ä¿®æ”¹æŒ‡ä»¤ï¼Œçµæœä»ä¸ä¸€å®šç¬¦åˆé æœŸã€‚ç›¸è¼ƒæ–¼å…¶ä»–åªéœ€è¼¸å…¥æ–‡å­—å°±èƒ½ç”Ÿæˆåœ–ç‰‡çš„ç¶²ç«™ï¼ŒComfyUI é›–ç„¶æœ‰æ›´å¤šè‡ªç”±åº¦ï¼Œä½†ä¹Ÿéœ€è¦æŠ•å…¥æ›´å¤šæ™‚é–“ä¾†ç ”ç©¶ã€‚é€™æ¬¡è®“æˆ‘çŸ¥é“ï¼ŒAI ä¸¦ä¸æ˜¯è¼¸å…¥æŒ‡ä»¤å°±èƒ½å¾—åˆ°å®Œç¾çµæœï¼Œæƒ³è¦å¯¦ç¾è‡ªå·±çš„å‰µæ„ï¼Œä»ç„¶éœ€è¦è€å¿ƒå˜—è©¦ã€æ‰¾åˆ°å•é¡Œå’Œè§£æ±ºæ–¹æ³•ï¼Œä¹Ÿè®“æˆ‘ç†è§£ä½¿ç”¨ AI å·¥å…·èƒŒå¾Œæ‰€éœ€è¦çš„æŠ€è¡“èˆ‡åŠªåŠ›
