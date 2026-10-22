@@ -24,4 +24,4 @@ dark avant-garde fashion editorial, high-end alternative fashion magazine, same 
 different person, altered facial features, distorted face, asymmetrical eyes, deformed anatomy, malformed shoulders, extra limbs, extra fingers, fused fingers, unnatural body proportions, poorly rendered hands, blurry, low quality, excessive noise, color artifacts, glitch, fragmented image, oversaturated colors, cartoon, anime, illustration, watermark, text
 
 ## 心得與反思
-我覺得實際操作很複雜，怎樣生成都跟想像中的差很多，有時候還會變成一堆色塊，調整過參數很多次，發現步驟數跟dnoise會影響比較多，然後提示詞太多好像也會影響判斷。我使用比較小的模型，這部分可能也影響成效很大一部分，使用較大較新的摩緒或許會比較符合理想。其實一開始找不到要怎麼有模型花很多時間。
+我覺得實際操作很複雜，怎樣生成都跟想像中的差很多，有時候還會變成一堆色塊，調整過參數很多次，發現步驟數跟dnoise會影響比較多，然後提示詞太多好像也會影響判斷。我使用比較小的模型，這部分可能也影響成效很大一部分，使用較大較新的模型或許會比較符合理想，一開始也因為找不到要怎麼有模型花很多時間。
